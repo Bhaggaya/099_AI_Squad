@@ -5,13 +5,15 @@ In an era where misinformation is widespread, we wanted to build a solution that
 
 Let me walk you through the key features of our app:
 
-The first feature is Manifesto Comparator 
+1) Manifesto Comparator 
 
 Our app includes a **Manifesto Comparator**, allowing users to compare the manifestos of different candidates side by side. Users can evaluate promises, goals, and key points directly, enabling them to make more informed choices about who aligns with their values and concerns.
 
-The second feature is the AI-Powered Election Bot** 
+2) AI-powered bot for Manifesto and Election Queries
 
 We’ve integrated an **AI-powered chatbot** that responds to user questions instantly. Whether you want to know more about a candidate’s policies, compare their promises, or get details on election rules, this bot provides reliable and verified responses based on data collected from trustworthy sources.
+
+3) Win Predictor
 
 A standout feature of our app is the **Win Predictor**. This tool uses advanced data analytics to assess polling data, social media sentiment, and public opinion, giving users insights into potential election outcomes. It doesn’t just guess but leverages patterns and trends to predict the most likely results, helping voters understand where the election may be headed.
 
